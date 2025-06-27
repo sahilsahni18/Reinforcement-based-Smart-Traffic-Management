@@ -150,6 +150,3 @@ Example analysis notebook (to be created) will load `time_log` and produce plots
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-```
