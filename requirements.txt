@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+flask
+numpy
+torch
+filterpy
+motpy
+paho-mqtt
